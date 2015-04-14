@@ -1,5 +1,6 @@
 #!/bin/sh 
 
+yum groupinstall 'Development Tools'
 
 ###################
 ## 0. yuminstall ##
